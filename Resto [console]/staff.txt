@@ -1,0 +1,3 @@
+staffID,NamaStaff,gender,jabatan
+01,Hilman,Cowok,Staff
+02,Ivan,Cowok,Manager

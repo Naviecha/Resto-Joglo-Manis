@@ -1,0 +1,4 @@
+tanggal,waktu,nama,jum_kursi,contact,idMeja,ditempati
+30/11/2015,15:00,Ivan,2,012345,11,0
+24/11/2015,21:00,Pandu,2,012345,2,0
+06/11/2015,09:00,Aldo,8,234,9,0

@@ -1,0 +1,48 @@
+== usage ==
+reservasi : 12/11/2015 - 08:00 - meja[8]
+pesan : jum_kursi [2]-[4]
+
+== catatan counter reservasi ==
+reservasi -> terakhir(1)
+KetersediaanMeja -> 2 -> [4] (iterasi 1)
+Reservasi (2 iterasi) -> [4]-[8]
+
+@class pesanan
+menghapus item pesanan
+iterasi pertama mengecek ID item yg dipesan
+iterasi kedua mengecek ID promo yang dipesan
+-- buat item (tipe item belum)
+
+@class ManageSistem
+- menghapus promosi
+
+== data ID & kapasitas meja ==
+No. Meja, Ukuran
+4,2
+3,4
+2,6
+1,8
+1,10
+
+
+@class Membership
+== belum selesai ==
+
+@buat class NotaPesanan (prefer)
+- masih berkutat dengan penulisan file.txt
+== 35% ==
+
+@dataBase
+== file.txt ==
+promosi.txt
+reservasi.txt
+staff.txt
+item.txts
+
+== integrasi sistem lama ke baru ==
+
+
+== Revisi dari Pak Anom ==
+
+-> Print Nota / Bon di txt
+-> Manager (lihat dan print totalPenjualan)

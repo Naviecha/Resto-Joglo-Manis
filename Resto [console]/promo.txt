@@ -1,0 +1,4 @@
+promoID, NamaPromo, item1, item2, item3
+P1,Paket Seger,0.0,[Sistem.Item@1b84c92, Sistem.Item@1c7c054]
+P2,Paket Combo,0.0,[Sistem.Item@12204a1, Sistem.Item@a298b7, Sistem.Item@14991ad]
+P3,Paket Hemat,0.0,[Sistem.Item@12204a1, Sistem.Item@1b84c92]

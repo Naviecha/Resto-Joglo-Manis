@@ -1,0 +1,4 @@
+promoID, NamaPromo, item1, item2, item3, item4....
+P1,Paket Seger,1,3,5
+P2,Paket Combo,2,4,6
+P3,Paket Hemat,1,2,3

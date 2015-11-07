@@ -1,0 +1,7 @@
+itemID, tipe, nama, harga, ket, diskon
+1,main course,Soto ayam,9,asli Lamongan,8
+2,main course,Bebek Sinjay,6,bebek bakar,5
+3,drink,segar sari,2,ombenan seger,1
+4,drink,teh Anget,2,ombenan seger,1
+5,dessert,roti cakwe,3, roti manis,  4
+6,dessert,roti pukis,3, roti plus pukis,2

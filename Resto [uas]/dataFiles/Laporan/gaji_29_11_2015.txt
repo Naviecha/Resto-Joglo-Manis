@@ -1,0 +1,5 @@
+*********** Daftar Pembayaran Gaji (29_11_2015) ***********
+ID Pegawai:1000  Nama Staff:Ivan Pandu                      Lama Kerja:0.00  Gaji:100.00
+ID Pegawai:1111  Nama Staff:Ihsan Fikri                     Lama Kerja:0.00  Gaji:0.00 
+-------------------------------------------------------
+Total Pembayaran:Rp.100.0(2)

@@ -1,0 +1,4 @@
+*********** Daftar Pesanan (24_11_2015) ***********
+ID Pesanan:   1  Nama Staff:Ivan Pandu                      Total:Rp.7.00  
+-------------------------------------------------------
+Total Penjualan:Rp.7.0(1)  Dibatalkan:Rp.0.0(0)

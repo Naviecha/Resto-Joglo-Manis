@@ -1,0 +1,4 @@
+*********** Daftar Pesanan (16_12_2015) ***********
+ID Pesanan:   1  Nama Staff:Mbak Intan                      Total:Rp.27.500 
+-------------------------------------------------------
+Total Penjualan:Rp.27.5(1)  Dibatalkan:Rp.0.0(0)

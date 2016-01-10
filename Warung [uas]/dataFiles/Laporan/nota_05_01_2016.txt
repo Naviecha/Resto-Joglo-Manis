@@ -1,0 +1,4 @@
+*********** Daftar Pesanan (05_01_2016) ***********
+ID Pesanan:   1  Nama Staff:Bu Rochman                      Total:Rp.13.000 
+-------------------------------------------------------
+Total Penjualan:Rp.13.0(1)  Dibatalkan:Rp.0.0(0)

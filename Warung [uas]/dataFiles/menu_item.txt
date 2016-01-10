@@ -1,0 +1,16 @@
+100,Nasi Putih,1.0,1
+101,Nasi Goreng,5.0,1
+102,Nasi Kuning,3.5,1
+200,Marimas,1.5,2
+201,Es Teh,2.5,2
+202,Kopi,2.5,2
+203,Nutri Sari,2.5,2
+204,Pop Ice,2.5,2
+300,Ayam,7.0,3
+301,Telur,5.0,3
+302,Lele,7.0,3
+303,Bandeng,7.0,3
+304,Perkedel,1.0,3
+400,Sayur Pecel,2.0,4
+401,Sayur Sop,2.0,4
+402,Sayur Lodeh,2.0,4
